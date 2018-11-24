@@ -1,24 +1,10 @@
 <NotepadPlus>
-    <Project name="ADC">
-        <File name="C:\Users\xj.jiang\Downloads\LuaTools 1.3.2\LuaTools 1.3.2\script\script_LuaTask\demo\adc\main.lua" />
-        <File name="C:\Users\xj.jiang\Downloads\LuaTools 1.3.2\LuaTools 1.3.2\script\script_LuaTask\demo\adc\testAdc.lua" />
-    </Project>
-    <Project name="formatString">
-        <File name="C:\Users\xj.jiang\Downloads\LuaTools 1.3.2\LuaTools 1.3.2\script\script_LuaTask\demo\formatString\main.lua" />
-        <File name="C:\Users\xj.jiang\Downloads\LuaTools 1.3.2\LuaTools 1.3.2\script\script_LuaTask\demo\formatString\testFormatString.lua" />
-    </Project>
-    <Project name="Project Name">
-        <File name="ca.crt" />
+    <Project name="&#x5DE5;&#x7A0B;&#x540D;">
         <File name="main.lua" />
         <File name="mqttInMsg.lua" />
         <File name="mqttOutMsg.lua" />
         <File name="mqttTask.lua" />
         <File name="uart1Task.lua" />
         <File name="uart2Task.lua" />
-    </Project>
-    <Project name="uart">
-        <File name="C:\Users\xj.jiang\Downloads\LuaTools 1.3.2\LuaTools 1.3.2\script\script_LuaTask\demo\uart\main.lua" />
-        <File name="C:\Users\xj.jiang\Downloads\LuaTools 1.3.2\LuaTools 1.3.2\script\script_LuaTask\demo\uart\testUart.lua" />
-        <File name="C:\Users\xj.jiang\Downloads\LuaTools 1.3.2\LuaTools 1.3.2\script\script_LuaTask\demo\uart\testUartTask.lua" />
     </Project>
 </NotepadPlus>
